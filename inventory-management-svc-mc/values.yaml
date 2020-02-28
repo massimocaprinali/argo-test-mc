@@ -1,0 +1,11 @@
+global:
+  ingressSubdomain: mooc-two-iks-cluster.eu-gb.containers.appdomain.cloud
+  tlsSecretName: mooc-two-iks-cluster
+
+inventory-management-svc-mc:
+  replicaCount: 3
+  
+  ingress:
+    enabled: true
+    tlsSecretName: mooc-two-iks-cluster
+

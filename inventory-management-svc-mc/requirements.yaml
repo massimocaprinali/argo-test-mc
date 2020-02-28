@@ -1,0 +1,4 @@
+dependencies:
+- name: inventory-management-svc-mc
+  version: 1.0.0-1
+  repository: http://artifactory.mooc-two-iks-cluster.eu-gb.containers.appdomain.cloud
