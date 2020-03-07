@@ -1,5 +1,5 @@
 dependencies:
   - name: inventory-management-bff-mc
-    version: 1.0.0-2
+    version: 1.0.0-5
     repository: >-
       http://artifactory.mooc-two-iks-cluster.eu-gb.containers.appdomain.cloud/artifactory/example-repo-local/mooc-team-two

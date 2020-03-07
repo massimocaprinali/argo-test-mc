@@ -1,5 +1,5 @@
 dependencies:
   - name: inventory-management-ui-mc
-    version: 1.0.0-6
+    version: 1.0.0-14
     repository: >-
       http://artifactory.mooc-two-iks-cluster.eu-gb.containers.appdomain.cloud/artifactory/example-repo-local/mooc-team-two
